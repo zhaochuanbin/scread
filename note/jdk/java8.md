@@ -1,12 +1,3 @@
----
-layout : post
-title : "JDK1.8新特性"
-category : JAVA
-tagline: ""
-date : 2016-06-10
-tags : [JDK,新特性]
----
-
 ### 接口的默认方法
 Java 8允许我们给接口添加一个非抽象的方法实现，只需要使用 default关键字即可，这个特征又叫做扩展方法，默认方法sqrt将在子类上可以直接使用。
 

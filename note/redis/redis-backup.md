@@ -1,12 +1,3 @@
----
-layout : post
-title : "redis备份与恢复"
-category : redis
-tagline: ""
-date : 2016-06-14
-tags : [nosql,redis,恢复]
----
-
 在redis.conf文件，两种备份策略:RDB方式(默认)和AOF方式
 
 ### RDB方式

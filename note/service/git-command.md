@@ -1,14 +1,3 @@
----
-layout : post
-title : "Git命令汇总"
-category : Git
-tagline: ""
-date : 2016-06-10
-tags : [git]
----
-
-之前使用[git][gitURL]都是基于图形界面的[SourceTree][SourceTreeURL]，或者使用集成于eclipse的操作，并没有直接使用git命令，最近突然想使用原生git命令，所以写下此篇文章记录下。
-
 ### 安装
 
 在安装完git之后，首先要配置username和email

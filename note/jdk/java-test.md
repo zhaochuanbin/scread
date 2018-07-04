@@ -1,12 +1,3 @@
----
-layout : post
-title : "JAVA编程题"
-category : JAVA
-tagline: ""
-date : 2016-06-10
-tags : [JAVA,编程题]
----
-
 ### JAVA赋值、退出虚拟机方式；重写系统方法
 
 	public static void main(String[] args) throws ParseException {

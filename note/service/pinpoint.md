@@ -56,18 +56,3 @@ TomcatB 作为子节点工作因为它识别了header中的TraceId
 7、在对tomcatB的HTTP调用结束后，TomcatA的请求也完成了。pinpoint agent发送跟踪数据到pinpoint collector就此存储在HBase中
 
 8、UI从HBase中读取跟踪数据并通过排序树来创建调用栈
-
-
-### 绘制流程图 Flowchart
-
-```flow
-st=>start: 用户登陆
-op=>operation: 登陆操作
-cond=>condition: 登陆成功 Yes or No?
-e=>end: 进入后台
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
