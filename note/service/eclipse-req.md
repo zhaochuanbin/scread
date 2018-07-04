@@ -1,12 +1,3 @@
----
-layout : post
-title : "eclipse问题"
-category : eclipse
-tagline: ""
-date : 2017-03-11
-tags : [eclipse]
----
-
 ### reload maven project
 An internal error occurred during: "reload maven project".
 java.lang.NullPointerException

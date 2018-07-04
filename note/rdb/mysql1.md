@@ -1,13 +1,3 @@
----
-layout : post
-title : "mysql相关问题"
-category : mysql
-tagline: ""
-date : 2016-02-10
-tags : [mysql,数据库]
----
-
-
 ### mysql负载过高，如何找到是由哪些SQL引起的
 
 

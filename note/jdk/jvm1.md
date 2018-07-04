@@ -1,12 +1,3 @@
----
-layout : post
-title : "深入JVM之内存模型和GC"
-category : java
-tagline: ""
-date : 2016-04-11
-tags : [java,JVM]
----
-
 ![](../images/jvm1.jpg)
 
 名称 | 特性 | 作用 | 配置参数 | 异常

@@ -1,13 +1,3 @@
----
-layout : post
-title : "windows下mysql安装"
-category : mysql
-tagline: ""
-date : 2016-02-10
-tags : [mysql,数据库,安装]
----
-
-
 windows下MySQL 5.7及以上版本压缩包
 ### 下载解压
 mysql的下载地址  https://www.mysql.com/downloads/ ,下载为64位,解压的位置是D:\green\mysql-5.7.10-winx64

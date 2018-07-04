@@ -1,12 +1,3 @@
----
-layout : post
-title : "深入mysql"
-category : mysql
-tagline: ""
-date : 2016-03-10
-tags : [mysql,数据库]
----
-
 ### MYSQL逻辑架构
 ![](../images/mysql-logic.png)
 第一层服务是基于网络的客户端/服务器的工具或者服务都有类似的架构。比如链接处理、授权认证、安全等。

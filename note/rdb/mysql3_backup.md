@@ -1,13 +1,3 @@
----
-layout : post
-title : "深入mysql"
-category : mysql
-tagline: ""
-date : 2016-03-22
-tags : [mysql,数据库,备份]
----
-
-
 ### MSQL备份
 **热备份:不需要任何的服务停机时间。**
 为什么备份：灾难恢复、审计、测试
