@@ -3,7 +3,7 @@
 
 jdk
 
-[JAVA8新技术](https://github.com/zhaochuanbin/scread/blob/master/note/java8.md)
+[JAVA8新技术](https://github.com/zhaochuanbin/scread/blob/master/note/jdk/java8.md)
 linux
 mq
 rdb
